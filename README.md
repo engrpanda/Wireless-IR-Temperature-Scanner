@@ -1,0 +1,1 @@
+# Wireless-IR-Temperature-Scanner
