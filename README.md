@@ -9,4 +9,6 @@ https://www.instructables.com/id/Wireless-IR-Temperature-Scanner/
 https://www.hackster.io/engrpandaece/wireless-ir-temperature-scanner-acbfd9
 
 
-APP: https://play.google.com/store/apps/details?id=com.irscanner.panda&hl=en
+# APP:
+
+https://play.google.com/store/apps/details?id=com.irscanner.panda&hl=en
