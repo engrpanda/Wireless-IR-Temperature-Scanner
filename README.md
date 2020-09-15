@@ -8,6 +8,9 @@ https://www.instructables.com/id/Wireless-IR-Temperature-Scanner/
 
 https://www.hackster.io/engrpandaece/wireless-ir-temperature-scanner-acbfd9
 
+# VIDEO:
+https://www.youtube.com/watch?v=VwBpDto-8aM&feature=emb_title
+
 
 # APP:
 
