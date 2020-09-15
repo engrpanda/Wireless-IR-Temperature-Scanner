@@ -1,6 +1,8 @@
 # Wireless-IR-Temperature-Scanner
 
-CODE: https://github.com/engrpanda/Wireless-IR-Temperature-Scanner/blob/master/Wireless_IR_Temperature_Scanner.ino
+# CODE: 
+
+https://github.com/engrpanda/Wireless-IR-Temperature-Scanner/blob/master/Wireless_IR_Temperature_Scanner.ino
 
 # TUTORIAL HOW TO: 
 
