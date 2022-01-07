@@ -1,7 +1,12 @@
 # Wireless-IR-Temperature-Scanner
 
 Click to watch
+
 [![Watch the video](https://img.youtube.com/vi/VwBpDto-8aM/0.jpg)](https://www.youtube.com/watch?v=VwBpDto-8aM)
+
+# VIDEO:
+https://www.youtube.com/watch?v=VwBpDto-8aM&feature=emb_title
+
 # CODE: 
 
 https://github.com/engrpanda/Wireless-IR-Temperature-Scanner/blob/master/Wireless_IR_Temperature_Scanner.ino
@@ -12,8 +17,6 @@ https://www.instructables.com/id/Wireless-IR-Temperature-Scanner/
 
 https://www.hackster.io/engrpandaece/wireless-ir-temperature-scanner-acbfd9
 
-# VIDEO:
-https://www.youtube.com/watch?v=VwBpDto-8aM&feature=emb_title
 
 
 # APP:
