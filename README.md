@@ -1,8 +1,6 @@
 # Wireless-IR-Temperature-Scanner
 
-Click to watch
-[![Watch the video](https://img.youtube.com/vi/VwBpDto-8aM/maxresdefault.jpg)](https://youtu.be/VwBpDto-8aM)
-
+[![Watch the video](https://img.youtube.com/vi/VwBpDto-8aM/0.jpg)](https://www.youtube.com/watch?v=VwBpDto-8aM)
 # CODE: 
 
 https://github.com/engrpanda/Wireless-IR-Temperature-Scanner/blob/master/Wireless_IR_Temperature_Scanner.ino
