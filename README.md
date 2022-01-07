@@ -1,5 +1,6 @@
 # Wireless-IR-Temperature-Scanner
 
+Click to watch
 [![Watch the video](https://img.youtube.com/vi/VwBpDto-8aM/0.jpg)](https://www.youtube.com/watch?v=VwBpDto-8aM)
 # CODE: 
 
